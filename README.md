@@ -5,8 +5,9 @@
 ![Genre](https://img.shields.io/badge/Genre-Tactical%20Board%20%2F%20Puzzle%20Game-purple)
 ![Audience](https://img.shields.io/badge/Audience-Casual%20Gamers-green)
 
-
-[**Play the game on itch.io**](https://al3xics.itch.io/gollumgo)
+[**GollumGO Trailer**](https://www.youtube.com/watch?v=pxMsG4oZtjA)  
+[**GollumGO Teaser (with Gameplay)**](https://www.youtube.com/watch?v=RX9UkH-N5y8)  
+[**Play the game on itch.io**](https://al3xics.itch.io/gollumgo)  
 
 ## Game Pitch
 
@@ -21,9 +22,7 @@ Worse still, the Ring only obeys its true master — misuse it, and it may slip 
 
 ## Videos
 
-[GollumGO Trailer](https://www.youtube.com/watch?v=pxMsG4oZtjA)
 
-[GollumGO Teaser (with Gameplay)](https://www.youtube.com/watch?v=RX9UkH-N5y8)
 
 <br>
 
@@ -57,3 +56,4 @@ For us, this universe naturally lends itself to **strong, meaningful gameplay me
 
 Developed with **Unreal Engine 5**  
 Inspired by the works of **J.R.R. Tolkien** and the **Lord of the Rings** film trilogy.
+
