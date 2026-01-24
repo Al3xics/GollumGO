@@ -20,12 +20,6 @@ Worse still, the Ring only obeys its true master — misuse it, and it may slip 
 
 <br>
 
-## Videos
-
-
-
-<br>
-
 ## Core Concept
 
 Inspired by Tolkien’s universe and Peter Jackson’s trilogy, **GollumGO** is a **tactical puzzle game** built around the unique powers — and dangers — of the One Ring.
@@ -56,4 +50,5 @@ For us, this universe naturally lends itself to **strong, meaningful gameplay me
 
 Developed with **Unreal Engine 5**  
 Inspired by the works of **J.R.R. Tolkien** and the **Lord of the Rings** film trilogy.
+
 
