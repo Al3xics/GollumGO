@@ -1,6 +1,12 @@
 # GollumGO
 
-[Download the game on itch.io](https://al3xics.itch.io/gollumgo)
+![Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205-black?logo=unrealengine)
+![Platform](https://img.shields.io/badge/Platform-PC-blue)
+![Genre](https://img.shields.io/badge/Genre-Tactical%20Board%20%2F%20Puzzle%20Game-purple)
+![Audience](https://img.shields.io/badge/Audience-Casual%20Gamers-green)
+
+
+[**Play the game on itch.io**](https://al3xics.itch.io/gollumgo)
 
 ## Game Pitch
 
@@ -13,6 +19,14 @@ Worse still, the Ring only obeys its true master — misuse it, and it may slip 
 
 <br>
 
+## Videos
+
+[GollumGO Trailer](https://www.youtube.com/watch?v=pxMsG4oZtjA)
+
+[GollumGO Teaser (with Gameplay)](https://www.youtube.com/watch?v=RX9UkH-N5y8)
+
+<br>
+
 ## Core Concept
 
 Inspired by Tolkien’s universe and Peter Jackson’s trilogy, **GollumGO** is a **tactical puzzle game** built around the unique powers — and dangers — of the One Ring.
@@ -21,17 +35,6 @@ The Ring grants invisibility against Orcs, while making you vulnerable to Nazgû
 Gameplay revolves around **alternating between wearing and removing the Ring**, carefully planning your moves to reach the exit of each level.
 
 Every decision matters: timing, positioning, and foresight are the keys to survival.
-
-<br>
-
-## Game Metrics
-
-| Category        | Details                          |
-|-----------------|----------------------------------|
-| Engine          | Unreal Engine 5                  |
-| Platform        | PC                               |
-| Genre           | Tactical Board / Puzzle Game     |
-| Target Audience | Casual Gamers                    |
 
 <br>
 
@@ -47,14 +50,6 @@ And of course, Gollum would be nothing without his *precious Ring*.
 Its power is the reason he is relentlessly hunted by the servants of Sauron across the marshes.
 
 For us, this universe naturally lends itself to **strong, meaningful gameplay mechanics**, built around risk, temptation, and survival.
-
-<br>
-
-## Videos
-
-[GollumGO Trailer](https://www.youtube.com/watch?v=pxMsG4oZtjA)
-
-[GollumGO Teaser (with Gameplay)](https://www.youtube.com/watch?v=RX9UkH-N5y8)
 
 <br>
 
